@@ -1,0 +1,34 @@
+######################################
+#         COMMON SENSE MEDIA         #
+######################################
+collections:
+
+  "TV-Y - Kids Series":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/kids-series-tv-y
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!001"
+    summary: "TV-Y – All Children – Programming that has this type of rating is most suitable for children ages 2 to 6. Whether it is an animated or live action show, the themes of the program are designed for a very young audience and are unlikely to scare young children."
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "TV-Y7 - Kids Series":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/kids-series-tv-y7
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!002"
+    summary: "TV-Y7 – Directed to Older Children – For programs with the TV-Y7 rating, you will find mild fantasy or comedic violence that's usually suitable for children ages 7 and above. Some themes or components of the show may frighten children younger than age 7. Therefore, parents may want to consider not letting younger children watch this type of program."
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "TV-G - Kids Series":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/kids-series-tv-g
+      sort_by: score.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!003"
+    summary: "TV-G – General Audience – Most parents who found programs rated TV-G would agree it is suitable for all ages, as it contains little or no violence, no strong language and little or no sexual dialogue or situations. Parents may feel comfortable letting younger children watch this type of programming with little or no supervision."
+    url_poster: https://theposterdb.com/api/assets/241009

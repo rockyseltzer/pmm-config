@@ -1,0 +1,30 @@
+############################################
+#        KIDS MOVIES POPULAR LISTS         #
+############################################
+collections:
+
+  "Top Watched Movies of The Week for Kids":
+    mdblist_list:
+      url: https://mdblist.com/lists/linaspurinis/top-watched-movies-of-the-week-for-kids/
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!001"
+    summary: Top Watched Movies of The Week for Kids.
+    url_poster: https://theposterdb.com/api/assets/246305
+
+  "Popular Animated Kids Movies":
+    tmdb_discover:
+      limit: 60
+      with_genres: 16
+      certification_country: US
+      certification: G|PG
+      sort_by: popularity.desc
+    sync_mode: sync
+    collection_mode: default
+    collection_order: custom
+    summary: A collection of the most popular Animated Kids movies from TMDb. Sorted by Popularity.
+    sort_title: "!002"
+    url_poster: https://theposterdb.com/api/assets/102656
+    schedule: daily
+    only_filter_missing: true

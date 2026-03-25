@@ -1,0 +1,64 @@
+######################################
+#         COMMON SENSE MEDIA         #
+######################################
+collections:
+
+  "Age 3 - Common Sense Popular":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/common-sense-popular-movies-age-3
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!003"
+    summary: Age 3 - Popular Movies from the Common Sense Media website.
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "Age 4 - Common Sense Popular":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/common-sense-popular-movies-age-4
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!004"
+    summary: Age 4 - Popular Movies from the Common Sense Media website.
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "Age 5 - Common Sense Popular":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/common-sense-popular-movies-age-5
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!005"
+    summary: Age 5 - Popular Movies from the Common Sense Media website.
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "Age 6 - Common Sense Popular":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/common-sense-popular-movies-age-6
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!006"
+    summary: Age 6 - Popular Movies from the Common Sense Media website.
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "Age 7 - Common Sense Popular":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/common-sense-popular-movies-age-7
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!007"
+    summary: Age 7 - Popular Movies from the Common Sense Media website.
+    url_poster: https://theposterdb.com/api/assets/241009
+
+  "Age 8 - Common Sense Popular":
+    mdblist_list:
+      url: https://mdblist.com/lists/linvo/common-sense-popular-movies-age-8
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!008"
+    summary: Age 8 - Popular Movies from the Common Sense Media website.
+    url_poster: https://theposterdb.com/api/assets/241009

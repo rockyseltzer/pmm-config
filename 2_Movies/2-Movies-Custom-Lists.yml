@@ -1,0 +1,44 @@
+############################################
+#        ADULT MOVIES CUSTOM LISTS         #
+############################################
+collections:
+
+  Crazy Plot Twists:
+    mdblist_list:
+      url: https://mdblist.com/lists/hdlists/crazy-plot-twists/
+      sort_by: released.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!006"
+    summary: Movies with crazy plot twists! Sorted by Release Date.
+    url_poster: https://theposterdb.com/api/assets/213134
+
+  "80s & 90s Nostalgic Movies":
+    mdblist_list:
+      url: https://mdblist.com/lists/hdlists/nostalgiac-movies-from-the-80s-90s/
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!007"
+    summary: Nostalgic movies from the 80s and 90s. Sorted by IMDb Popularity.
+    url_poster: https://theposterdb.com/api/assets/213586
+
+  Best of The 2000s:
+    mdblist_list:
+      url: https://mdblist.com/lists/hdlists/best-of-the-00s/
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!008"
+    summary: Top movies from 2000-2009. Sorted by IMDb Popularity.
+    url_poster: https://theposterdb.com/api/assets/213587
+
+  Best of The 2010s:
+    mdblist_list:
+      url: https://mdblist.com/lists/hdlists/best-of-the-2010s/
+      sort_by: imdbpopular.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!009"
+    summary: Top movies from 2010-2019. Sorted by IMDb Popularity.
+    url_poster: https://theposterdb.com/api/assets/213588

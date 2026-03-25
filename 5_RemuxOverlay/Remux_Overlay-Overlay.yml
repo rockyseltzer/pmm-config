@@ -1,0 +1,12 @@
+#############################################################
+#           PMM Video Format Overlays (Modified)            #
+#############################################################
+overlays:
+  REMUX:
+    template:
+      - name: VideoFormat
+        weight: 50
+        slug: remux
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)Remux'

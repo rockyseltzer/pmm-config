@@ -1,0 +1,14 @@
+############################################
+#         LIST OF LATEST TV SHOWS          #
+############################################
+collections:
+
+  Latest TV Shows:
+    mdblist_list:
+      url: https://mdblist.com/lists/garycrawfordgc/latest-tv-shows/
+      sort_by: released.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!001"
+    summary: Latest TV Shows. Sorted by Release Date.
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/chart/Newly%20Released.jpg

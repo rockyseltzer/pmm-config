@@ -1,0 +1,32 @@
+#############################################################
+#           PMM Video Format Overlays (Modified)            #
+#############################################################
+templates:
+  VideoFormat:
+    optional:
+      - overlay_level
+      - use_<<slug>>
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 30
+      vertical_align: bottom
+    collection_level: <<overlay_level>>
+    allowed_library_types: <<use_<<slug>>>>
+    ignore_blank_results: true
+    overlay:
+      name: text(<<overlay_name>>)
+      group: quality
+      weight: <<weight>>
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+      font: fonts/Inter-Medium.ttf
+      font_size: 55
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 305
+      back_height: 105

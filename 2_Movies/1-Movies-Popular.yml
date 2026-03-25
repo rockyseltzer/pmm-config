@@ -1,0 +1,24 @@
+############################################
+#        ADULT MOVIES POPULAR LISTS        #
+############################################
+collections:
+
+  Top Ten Pirated Weekly:
+    mdblist_list:
+      url: https://mdblist.com/lists/hdlists/top-ten-pirated-movies-of-the-week-torrent-freak-com
+      sort_by: released.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!004"
+    summary: TorrentFreak.com's Weekly Top Ten Pirated Movies. Sorted by Release Date.
+    url_poster: https://theposterdb.com/api/assets/253815
+
+  Top Watched Movies of The Week:
+    mdblist_list:
+      url: https://mdblist.com/lists/linaspurinis/top-watched-movies-of-the-week/
+      sort_by: released.desc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "!005"
+    summary: Top Watched Movies of The Week. Sorted by Release Date. (Rotten Tomato Score > 60)
+    url_poster: https://theposterdb.com/api/assets/253774
