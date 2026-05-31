@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     sort_title: "!004"
     summary: TorrentFreak.com's Weekly Top Ten Pirated Movies. Sorted by Release Date.
-    url_poster: https://theposterdb.com/api/assets/253815
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/movies-top-ten.jpg
 
   Top Watched Movies of The Week:
     mdblist_list:
@@ -21,4 +21,4 @@ collections:
     sync_mode: sync
     sort_title: "!005"
     summary: Top Watched Movies of The Week. Sorted by Release Date. (Rotten Tomato Score > 60)
-    url_poster: https://theposterdb.com/api/assets/253774
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/movies-top-watched.jpg
