@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     sort_title: "!001"
     summary: Top Watched Movies of The Week for Kids.
-    url_poster: https://theposterdb.com/api/assets/246305
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/kids-popular.jpg
 
   "Popular Animated Kids Movies":
     tmdb_discover:
@@ -25,6 +25,6 @@ collections:
     collection_order: custom
     summary: A collection of the most popular Animated Kids movies from TMDb. Sorted by Popularity.
     sort_title: "!002"
-    url_poster: https://theposterdb.com/api/assets/102656
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/kids-popular-animated.jpg
     schedule: daily
     only_filter_missing: true
