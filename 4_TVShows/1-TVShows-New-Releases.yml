@@ -11,4 +11,4 @@ collections:
     sync_mode: sync
     sort_title: "!001"
     summary: Latest TV Shows. Sorted by Release Date.
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/chart/Newly%20Released.jpg
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/tv-latest.jpg
