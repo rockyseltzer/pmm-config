@@ -11,7 +11,7 @@ collections:
     sync_mode: sync
     sort_title: "!003"
     summary: Age 3 - Popular Movies from the Common Sense Media website.
-    url_poster: https://theposterdb.com/api/assets/241009
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/age-3.jpg
 
   "Age 4 - Common Sense Popular":
     mdblist_list:
@@ -21,7 +21,7 @@ collections:
     sync_mode: sync
     sort_title: "!004"
     summary: Age 4 - Popular Movies from the Common Sense Media website.
-    url_poster: https://theposterdb.com/api/assets/241009
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/age-4.jpg
 
   "Age 5 - Common Sense Popular":
     mdblist_list:
@@ -31,7 +31,7 @@ collections:
     sync_mode: sync
     sort_title: "!005"
     summary: Age 5 - Popular Movies from the Common Sense Media website.
-    url_poster: https://theposterdb.com/api/assets/241009
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/age-5.jpg
 
   "Age 6 - Common Sense Popular":
     mdblist_list:
@@ -41,7 +41,7 @@ collections:
     sync_mode: sync
     sort_title: "!006"
     summary: Age 6 - Popular Movies from the Common Sense Media website.
-    url_poster: https://theposterdb.com/api/assets/241009
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/age-6.jpg
 
   "Age 7 - Common Sense Popular":
     mdblist_list:
@@ -51,7 +51,7 @@ collections:
     sync_mode: sync
     sort_title: "!007"
     summary: Age 7 - Popular Movies from the Common Sense Media website.
-    url_poster: https://theposterdb.com/api/assets/241009
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/age-7.jpg
 
   "Age 8 - Common Sense Popular":
     mdblist_list:
@@ -61,4 +61,4 @@ collections:
     sync_mode: sync
     sort_title: "!008"
     summary: Age 8 - Popular Movies from the Common Sense Media website.
-    url_poster: https://theposterdb.com/api/assets/241009
+    url_poster: https://raw.githubusercontent.com/rockyseltzer/pmm-config/main/posters/age-8.jpg
